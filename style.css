@@ -1,0 +1,32 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+h1 {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-size: 3em;
+    margin-bottom: 0.2em;
+}
+.image-wrapper {
+    margin-top: 30px;
+    border: 2px solid #ccc;
+    padding: 10px;
+    display: inline-block;
+    background: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    max-width: 90vw;
+}
+img {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    border-radius: 6px;
+}
+.caption {
+    margin-top: 10px;
+    font-style: italic;
+    color: #555;
+}
