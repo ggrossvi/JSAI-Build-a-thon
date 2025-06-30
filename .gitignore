@@ -4,12 +4,13 @@
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 # User-specific files
+.env
 *.rsuser
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
-.env
+
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -403,3 +404,4 @@ FodyWeavers.xsd
 
 # Environment variables
 .env
+.azure
