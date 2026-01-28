@@ -7,7 +7,7 @@
         "@azure-rest/ai-inference": "latest",
         "@azure/core-auth": "latest",
         "@azure/core-sse": "latest",
-        "dotenv": "^16.5.0",
+        "dotenv": "^16.6.1",
         "fs": "^0.0.1-security"
     }
 }
